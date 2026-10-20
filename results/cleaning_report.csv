@@ -1,0 +1,8 @@
+rule,laps_removed,laps_left
+missing lap time,34,26627
+lap 1 (standing start),435,26192
+pit out-lap,824,25368
+pit in-lap,754,24614
+wet qualifying (pole time not comparable),1797,22817
+intermediate / wet tyres,976,21841
+"> 20% off pole (safety car, incidents)",830,21011

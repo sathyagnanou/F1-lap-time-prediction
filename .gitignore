@@ -1,0 +1,12 @@
+# Environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Raw API caches (rebuilt automatically; processed CSVs in data/processed are kept)
+data/cache/
+data/raw/
+
+# Trained models (rebuilt by src/main.py)
+models/
